@@ -12,7 +12,7 @@ These `JSON` files are labelled with an `AUTHOR_DESCRIPTION.json` format to give
 
 These can be downloaded into your No Man's Sky Base Builder user folder located here.
 
->>> %USERPROFILE%/NoMansSkyBaseBuilder/presets/
+> %USERPROFILE%/NoMansSkyBaseBuilder/presets/
 
 ## How to contribute
 
@@ -22,15 +22,11 @@ https://help.github.com/en/articles/adding-a-file-to-a-repository
 
 Follow this guide to add your own presets to a `category` and labelled with the `AUTHOR_DESCRIPTION.json` format. For example.
 
->>> nms-base-builder-presets/presets/Cyber/djmonkey_Cafe.json
-
->>> nms-base-builder-presets/presets/Cyber/djmonkey_Dome.json
-
->>> nms-base-builder-presets/presets/Cyber/djmonkey_Food.json
-
->>> nms-base-builder-presets/presets/Cyber/djmonkey_Pilon.json
-
->>> nms-base-builder-presets/presets/Cyber/djmonkey_Store.json
+> nms-base-builder-presets/presets/Cyber/djmonkey_Cafe.json
+> nms-base-builder-presets/presets/Cyber/djmonkey_Dome.json
+> nms-base-builder-presets/presets/Cyber/djmonkey_Food.json
+> nms-base-builder-presets/presets/Cyber/djmonkey_Pilon.json
+> nms-base-builder-presets/presets/Cyber/djmonkey_Store.json
 
 After following this guide, a new `Pull Request` will be set up, where your new Presets
 will be approved and merged to the `master` branch where everyone can see and download them. 
