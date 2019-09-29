@@ -20,7 +20,7 @@ They will then appear in the Preset list within the tool.
 
 ## Contribute
 
-Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-presets) page for details on how to contribute.
+Please visit the readme on the [GitHub](https://github.com/charliebanks/nms-base-builder-presets) page for details on how to contribute.
 
 
 ## Categories  
