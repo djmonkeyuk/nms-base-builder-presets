@@ -45,18 +45,19 @@ def generate_homepage():
 
 def generate_category(category):
     preset_info = get_presets(category)
-    md_generate = "# {}\n\n".format(category)
+    content = "# No Man's Sky Base Builder Presets  \n\n"
+    content = "## Category:: {}\n\n".format(category)
     for preset, data in preset_info.items():
         name = data["name"]
         author = data["author"]
         full_path = data["full_path"]
-        md_generate += "Name: {}  \n".format(name)
-        md_generate += "Author: {}  \n".format(author)
-        md_generate += "[Download]({})  \n\n".format(full_path)
+        content += "Name: {}  \n".format(name)
+        content += "Author: {}  \n".format(author)
+        content += "[Download]({})  \n\n".format(full_path)
 
     md_file = os.path.join(DOCS_PATH, category + ".md")
     with open(md_file, "w") as stream:
-        stream.write(md_generate) 
+        stream.write(content) 
     return
 
 def generate():

@@ -1,4 +1,4 @@
-# Mini
+## Category:: Mini
 
 Name: ChessSet.json  
 Author: djmonkey  

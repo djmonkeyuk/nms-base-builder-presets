@@ -1,4 +1,4 @@
-# Shops
+## Category:: Shops
 
 Name: FlyingTaco.json  
 Author: djmonkey  
