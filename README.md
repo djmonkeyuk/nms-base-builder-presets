@@ -1,12 +1,21 @@
 # No Man's Sky Base Builder Presets
 
-A central place for the Blender community to store presets for the [No Man's Sky Base Builder](https://www.nexusmods.com/nomanssky/mods/984)!
+<p align="center">
+A central place for the Blender community to store presets for the <a href="https://www.nexusmods.com/nomanssky/mods/984">No Man's Sky Base Builder</a>
+</p>
 
-## How to contribute
+## Navigation
 
-> __NOTE__: GitHub already has a useful help page for adding files to a repository. It may be worth reading this before continuing
-> 
-> https://help.github.com/en/articles/adding-a-file-to-a-repository 
+<ul>
+  <li><a href="#ask">Ask to be a Contributor</a></li>
+  <li><a href="#category">Adding a Category</a></li>
+  <li><a href="#presets">Adding Presets</a></li>
+  <li><a href="#thumbnails">Adding Thumbnails</a></li>
+  <li><a href="#experts">Experts</a></li>
+</ul>
+
+
+<a name="ask"></a>
 
 ### 1. Ask to be a contributor.
 
@@ -14,7 +23,11 @@ Please message me through GitHub to be given contributor access to the Repositor
 
 ___
 
-### 2. Creating a new Category.
+<a name="category"></a>
+
+### 2. Adding a Category.
+
+Skip these steps if a category already exists for your Preset.
 
 1. At the top of this page, press the button that says "Create new file."
 2. In the field that says "Name your file...". Type in the name of the category.
@@ -30,7 +43,9 @@ to be approved!
 
 ___
 
-### 2. Adding Preset files to a Category.
+<a name="presets"></a>
+
+### 2. Adding Presets.
 
 1. Scroll to the top of the page and select the `category` you want to add files to.
 2. Select the button that says `Upload Files`.
@@ -58,7 +73,9 @@ If you haven't followed the naming guide lines then I may ask you to try again.
 
 ___
 
-### 3. Adding thumbnails.
+<a name="thumbnails"></a>
+
+### 3. Adding Thumbnails.
 
 1. Scroll to the top of the page and select the `images` folder.
 2. Select the `category` folder that your preset was placed under.
@@ -85,6 +102,8 @@ This will notify me of the new thumbnails. Now all you need to do is wait for it
 to be approved!
 
 ___
+
+<a name="experts"></a>
 
 ### 4. Expert Mode
 
