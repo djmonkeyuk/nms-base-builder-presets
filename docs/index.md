@@ -1,5 +1,28 @@
 # No Man's Sky Base Builder Presets  
 
+
+## Welcome
+
+Explore this website to find base building Presets created by the community 
+to be used with the _[No Man's Sky Base Builder](https://www.nexusmods.com/nomanssky/mods/984)_ for _Blender_.
+
+Within these categories are a series of `JSON` files which correspond to a 
+particular preset.
+
+These can be downloaded and placed into your No Man's Sky Base Builder user 
+folder located here.
+
+```
+%USERPROFILE%/NoMansSkyBaseBuilder/presets/
+```
+
+They will then appear in the Preset list within the tool.
+
+## Contribute
+
+Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-presets) page for details on how to contribute.
+
+
 ## Categories  
 
 <table cellpadding="10">

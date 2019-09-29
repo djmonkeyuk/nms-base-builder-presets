@@ -10,6 +10,32 @@ GITHUB_PAGES_URL = "https://charliebanks.github.io/nms-base-builder-presets/"
 GITHUB_RAW_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master"
 MISSING_THUMB_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"
 
+
+WELCOME_MESSAGE = """
+## Welcome
+
+Explore this website to find base building Presets created by the community 
+to be used with the _[No Man's Sky Base Builder](https://www.nexusmods.com/nomanssky/mods/984)_ for _Blender_.
+
+Within these categories are a series of `JSON` files which correspond to a 
+particular preset.
+
+These can be downloaded and placed into your No Man's Sky Base Builder user 
+folder located here.
+
+```
+%USERPROFILE%/NoMansSkyBaseBuilder/presets/
+```
+
+They will then appear in the Preset list within the tool.
+"""
+
+CONTRIBUTION_MESSAGE = """
+## Contribute
+
+Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-presets) page for details on how to contribute.
+"""
+
 def get_categories():
     contents = os.listdir(ROOT_PATH)
     folders = [folder for folder in contents if "." not in folder]
@@ -49,7 +75,9 @@ def get_first_image(category):
 
 def generate_homepage():
     content = "# No Man's Sky Base Builder Presets  \n\n"
-    content += "## Categories  \n\n"
+    content+= WELCOME_MESSAGE
+    content+= CONTRIBUTION_MESSAGE
+    content += "\n\n## Categories  \n\n"
     content += (
         """<table cellpadding="10">
         <tbody>"""
@@ -99,7 +127,6 @@ def generate_category(category):
         full_path = data["full_path"]
         image_path = data["image_path"]
         local_image_path = data["local_image_path"]
-        print local_image_path
         if not os.path.isfile(local_image_path):
             image_path = MISSING_THUMB_URL
 
