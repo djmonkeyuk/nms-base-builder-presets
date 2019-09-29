@@ -4,6 +4,10 @@ A central place for the Blender community to store presets for the [No Man's Sky
 
 ## How to contribute
 
+> __NOTE__: GitHub already has a useful help page for adding files to a repository. It may be worth reading this before continuing
+> 
+> https://help.github.com/en/articles/adding-a-file-to-a-repository 
+
 ### 1. Ask to be a contributor.
 
 Please message me through GitHub to be given contributor access to the Repository.
@@ -11,10 +15,6 @@ Please message me through GitHub to be given contributor access to the Repositor
 ___
 
 ### 2. Creating a new Category.
-
-> __NOTE__: GitHub already has a help page for adding files to a repository. 
-> 
-> https://help.github.com/en/articles/adding-a-file-to-a-repository 
 
 1. At the top of this page, press the button that says "Create new file."
 2. In the field that says "Name your file...". Type in the name of the category.
@@ -28,11 +28,9 @@ ___
 This will notify me of a new category. Now all you need to do is wait for it
 to be approved!
 
-### 2. Adding Preset files to a Category.
+___
 
-> __NOTE__: GitHub already has a help page for adding files to a repository. 
-> 
-> https://help.github.com/en/articles/adding-a-file-to-a-repository 
+### 2. Adding Preset files to a Category.
 
 1. Scroll to the top of the page and select the `category` you want to add files to.
 2. Select the button that says `Upload Files`.
@@ -58,7 +56,9 @@ to be approved!
 
 If you haven't followed the naming guide lines then I may ask you to try again.
 
-### 4. Adding thumbnails.
+___
+
+### 3. Adding thumbnails.
 
 1. Scroll to the top of the page and select the `images` folder.
 2. Select the `category` folder that your preset was placed under.
@@ -84,7 +84,9 @@ If you haven't followed the naming guide lines then I may ask you to try again.
 This will notify me of the new thumbnails. Now all you need to do is wait for it
 to be approved!
 
-### 5. Expert Mode
+___
+
+### 4. Expert Mode
 
 If you're already familiar and comfortable using Git. Feel free to clone, create branches 
 and pull requests as you please, as long as you follow the naming convention.
