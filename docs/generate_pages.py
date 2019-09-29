@@ -46,7 +46,7 @@ def generate_homepage():
 def generate_category(category):
     preset_info = get_presets(category)
     content = "# No Man's Sky Base Builder Presets  \n\n"
-    content += "## Category:: {}\n\n".format(category)
+    content += "[< Back]({}) :: Category:: {}\n\n".format(GITHUB_PAGES_URL, category)
     for preset, data in preset_info.items():
         name = data["name"]
         author = data["author"]
