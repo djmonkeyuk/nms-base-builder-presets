@@ -14,17 +14,20 @@ ___
 </thead>
 <tbody>
     <tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> NostromoLeftEngine <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeftEngine.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoLeftEngine.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> NostromoLeftEngine <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeftEngine.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> NostromoLeg <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeg.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoLeg.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> NostromoLeg <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeg.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> NostromoRightEngine <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoRightEngine.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoRightEngine.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> NostromoRightEngine <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoRightEngine.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> NostromoCenter <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoCenter.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoCenter.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> NostromoCenter <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoCenter.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoWhole.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> NostromoWhole <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoWhole.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr>
 </tbody>
 </table>
