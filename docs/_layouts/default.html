@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -22,13 +22,13 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/logo_large.png" />
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    <header class="page-header" role="banner" style="padding: 5px;">
+      <a href="https://charliebanks.github.io/nms-base-builder-presets/"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/logo_large.png" height="250px"/></a>
+      <h2 class="project-name">Presets</h2>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="https://www.nexusmods.com/nomanssky/mods/984" class="btn" target="_blank">Download No Man's Sky Base Builder</a>
-        <a href="{{ site.github.repository_url }}" class="btn">Contribute</a>
+        <a href="https://www.nexusmods.com/nomanssky/mods/984" class="btn" target="_blank">Download the No Man's Sky Base Builder</a>
+        <a href="{{ site.github.repository_url }}" class="btn">Contribute Presets</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
