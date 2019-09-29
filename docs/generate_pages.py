@@ -24,7 +24,8 @@ def get_presets(category):
         info[item] = {
             "author": basename.split("_")[0],
             "name": basename.split("_")[-1].split(".")[0],
-            "full_path": "/".join([GITHUB_RAWR_URL, category, item])
+            "full_path": "/".join([GITHUB_RAWR_URL, category, item]),
+            "image_path": "/".join([GITHUB_RAWR_URL, "images", category, item.replace(".json", ".jpg")])
         }
     return info
 
@@ -45,22 +46,28 @@ def generate_homepage():
 
 def generate_category(category):
     preset_info = get_presets(category)
+    # Header.
     content = "# No Man's Sky Base Builder Presets  \n\n"
     content += "## [< Back]({}) :: Category:: {}\n\n".format(GITHUB_PAGES_URL, category)
     content += "___\n\n"
-    for preset, data in preset_info.items():
+    # Items.
+    for data in preset_info.values():
+        # Get data.
         name = data["name"]
         author = data["author"]
         full_path = data["full_path"]
-        content += "__Name__: {}  \n".format(name)
-        content += "__Author__: {}  \n".format(author)
-        content += "[__Download__]({})  \n\n".format(full_path)
-        content += "___\n\n"
+        image_path = data["image_path"]
+        # Add to content.
+        content += "Image | Description  \n"
+        content += "--- | ---  \n"
+        content += (
+            "![]({}) | __Name:__: {} <br /> __Author:__ {} <br /> [__Download__]({})"
+        ).format(image_path, name, author, full_path)
+        content += " | ___\n\n"
 
     md_file = os.path.join(DOCS_PATH, category + ".md")
     with open(md_file, "w") as stream:
         stream.write(content) 
-    return
 
 def generate():
     """Main generate."""
