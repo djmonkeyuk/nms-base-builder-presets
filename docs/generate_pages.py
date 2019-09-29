@@ -31,7 +31,7 @@ def get_presets(category):
 def generate_homepage():
     content = "# No Man's Sky Base Builder Presets  \n\n"
     content += "## Categories  \n\n"
-    md_file = os.path.join(DOCS_PATH, "index.md")
+    
 
     categories = get_categories()
     for category in categories:
@@ -39,6 +39,7 @@ def generate_homepage():
         content += "[{}]({})".format(category, os.path.join(GITHUB_PAGES_URL, category_url))
         content += "  \n\n"
 
+    md_file = os.path.join(DOCS_PATH, "index.html")
     with open(md_file, "w") as stream:
         stream.write(content) 
 
