@@ -48,8 +48,16 @@ def generate_category(category):
     preset_info = get_presets(category)
     # Header.
     content = "# No Man's Sky Base Builder Presets  \n\n"
-    content += "## [< Back]({}) :: Category:: {}\n\n".format(GITHUB_PAGES_URL, category)
+    content += "## [< Back]({}) :: {}\n\n".format(GITHUB_PAGES_URL, category)
     content += "___\n\n"
+
+    content += """
+    <table style="width:100%">
+    <tr>
+        <th>Image</th>
+        <th>Description</th>
+    </tr>
+    """
     # Items.
     for data in preset_info.values():
         # Get data.
@@ -57,13 +65,18 @@ def generate_category(category):
         author = data["author"]
         full_path = data["full_path"]
         image_path = data["image_path"]
-        # Add to content.
-        content += "Image | Description  \n"
-        content += "--- | ---  \n"
-        content += (
-            "![]({}) | __Name:__: {} <br /> __Author:__ {} <br /> [__Download__]({})"
-        ).format(image_path, name, author, full_path)
-        content += " | ___\n\n"
+        # Create a HTML table as markdown is fairly limiting.
+        content += """
+        <tr>
+            <td width=\"50%\"><img src=\"{}\"></td>
+            <td width=\"50%\">__Name:__ {} <br /> __Author:__ {} <br /> [__Download__]({})</td>
+        </tr>
+        """.format(image_path, name, author, full_path)
+
+    content += """
+    </table>
+    """
+
 
     md_file = os.path.join(DOCS_PATH, category + ".md")
     with open(md_file, "w") as stream:
