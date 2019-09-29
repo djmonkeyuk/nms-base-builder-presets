@@ -35,7 +35,7 @@ ___
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Pop Culture/djmonkey_IronGiantLeftArm.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> IronGiantLeftArm <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantLeftArm.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Pop Culture/djmonkey_IronGiant.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> IronGiant <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiant.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Pop Culture/djmonkey_IronGiantHead.jpg"></td>

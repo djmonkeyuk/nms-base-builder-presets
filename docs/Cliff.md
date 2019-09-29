@@ -29,7 +29,7 @@ ___
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_WalkwaySplit.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> WalkwaySplit <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_WalkwaySplit.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_LandingPad.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> LandingPad <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_LandingPad.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_OuterStair.jpg"></td>
