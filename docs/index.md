@@ -2,17 +2,31 @@
 
 ## Categories  
 
-[Basic](https://charliebanks.github.io/nms-base-builder-presets/Basic)  
+# [Basic](https://charliebanks.github.io/nms-base-builder-presets/Basic)  
 
-[Cliff](https://charliebanks.github.io/nms-base-builder-presets/Cliff)  
+___
 
-[Cyber](https://charliebanks.github.io/nms-base-builder-presets/Cyber)  
+# [Cliff](https://charliebanks.github.io/nms-base-builder-presets/Cliff)  
 
-[Mini](https://charliebanks.github.io/nms-base-builder-presets/Mini)  
+___
 
-[Pop Culture](https://charliebanks.github.io/nms-base-builder-presets/Pop%20Culture)  
+# [Cyber](https://charliebanks.github.io/nms-base-builder-presets/Cyber)  
 
-[Shops](https://charliebanks.github.io/nms-base-builder-presets/Shops)  
+___
 
-[Vehicle](https://charliebanks.github.io/nms-base-builder-presets/Vehicle)  
+# [Mini](https://charliebanks.github.io/nms-base-builder-presets/Mini)  
+
+___
+
+# [Pop Culture](https://charliebanks.github.io/nms-base-builder-presets/Pop%20Culture)  
+
+___
+
+# [Shops](https://charliebanks.github.io/nms-base-builder-presets/Shops)  
+
+___
+
+# [Vehicle](https://charliebanks.github.io/nms-base-builder-presets/Vehicle)  
+
+___
 
