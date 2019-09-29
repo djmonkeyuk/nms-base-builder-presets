@@ -14,29 +14,29 @@ ___
 </thead>
 <tbody>
     <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> IronGiantRightArm <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantRightArm.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> IronGiantRightArm <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantRightArm.json">Download</a></b></td>
         </tr><tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> FalloutVaultDoor <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_FalloutVaultDoor.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> FalloutVaultDoor <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_FalloutVaultDoor.json">Download</a></b></td>
         </tr><tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> IronGiantRightLeg <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantRightLeg.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> IronGiantRightLeg <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantRightLeg.json">Download</a></b></td>
         </tr><tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> IronGiantLeftLeg <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantLeftLeg.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> IronGiantLeftLeg <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantLeftLeg.json">Download</a></b></td>
         </tr><tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> IronGiantUpperArm <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantUpperArm.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> IronGiantUpperArm <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantUpperArm.json">Download</a></b></td>
         </tr><tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> IronGiantPelvis <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantPelvis.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> IronGiantPelvis <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantPelvis.json">Download</a></b></td>
         </tr><tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> IronGiantLeftArm <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantLeftArm.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> IronGiantLeftArm <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantLeftArm.json">Download</a></b></td>
         </tr><tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
-            <td valign="top" width="50%"><b>Name:</b> IronGiantHead <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantHead.json">Download</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> IronGiantHead <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Pop Culture/djmonkey_IronGiantHead.json">Download</a></b></td>
         </tr>
 </tbody>
 </table>

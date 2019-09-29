@@ -17,6 +17,7 @@ def get_categories():
     return categories
 
 def check_url_exists(url):
+    print "Checking for", url, "..."
     if urllib.urlopen(url).getcode() == 200:
         return True
     else:
@@ -82,8 +83,8 @@ def generate_category(category):
         # Create a HTML table as markdown is fairly limiting.
         content += (
             """<tr>
-            <td width=\"50%\"><img src=\"{}\"></td>
-            <td valign="top" width=\"50%\"><b>Name:</b> {} <br /> <b>Author:</b> {} <br /> <b><a href=\"{}\">Download</a></b></td>
+            <td width=\"40%\"><img src=\"{}\"></td>
+            <td valign="top" width=\"60%\"><b>Name:</b> {} <br /> <b>Author:</b> {} <br /> <b><a href=\"{}\">Download</a></b></td>
         </tr>""").format(image_path, name, author, full_path)
 
     content += """
