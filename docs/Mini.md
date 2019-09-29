@@ -1,12 +1,12 @@
 # No Man's Sky Base Builder Presets  
 
-[< Back](https://charliebanks.github.io/nms-base-builder-presets/) :: Category:: Mini
+## [< Back](https://charliebanks.github.io/nms-base-builder-presets/) :: Category:: Mini
 
-Name: ChessSet  
-Author: djmonkey  
-[Download](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSet.json)  
+__Name__: ChessSet  
+__Author__: djmonkey  
+[__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSet.json)  
 
-Name: ChessSetPlayed  
-Author: djmonkey  
-[Download](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSetPlayed.json)  
+__Name__: ChessSetPlayed  
+__Author__: djmonkey  
+[__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSetPlayed.json)  
 

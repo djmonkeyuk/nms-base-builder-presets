@@ -46,14 +46,14 @@ def generate_homepage():
 def generate_category(category):
     preset_info = get_presets(category)
     content = "# No Man's Sky Base Builder Presets  \n\n"
-    content += "[< Back]({}) :: Category:: {}\n\n".format(GITHUB_PAGES_URL, category)
+    content += "## [< Back]({}) :: Category:: {}\n\n".format(GITHUB_PAGES_URL, category)
     for preset, data in preset_info.items():
         name = data["name"]
         author = data["author"]
         full_path = data["full_path"]
-        content += "Name: {}  \n".format(name)
-        content += "Author: {}  \n".format(author)
-        content += "[Download]({})  \n\n".format(full_path)
+        content += "__Name__: {}  \n".format(name)
+        content += "__Author__: {}  \n".format(author)
+        content += "[__Download__]({})  \n\n".format(full_path)
 
     md_file = os.path.join(DOCS_PATH, category + ".md")
     with open(md_file, "w") as stream:
