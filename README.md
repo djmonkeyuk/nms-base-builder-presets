@@ -4,6 +4,8 @@
 A central place for the Blender community to store presets for the <a href="https://www.nexusmods.com/nomanssky/mods/984">No Man's Sky Base Builder</a>
 </p>
 
+If you're looking for Presets to download, please visit the [user-friendly website](https://charliebanks.github.io/nms-base-builder-presets/).
+
 ## Navigation
 
 <ul>
@@ -19,7 +21,7 @@ A central place for the Blender community to store presets for the <a href="http
 
 ### 1. Ask to be a contributor.
 
-Please message me through GitHub to be given contributor access to the Repository.
+Please message me through GitHub to be given contributor access to the Repository. You must do this before proceeding to the next steps.
 
 ___
 
