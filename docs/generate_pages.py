@@ -1,5 +1,6 @@
 """Script for generating .md files from preset directories."""
 import os
+import urllib
 
 DOCS_PATH = os.path.dirname(os.path.realpath(__file__))
 ROOT_PATH = os.path.realpath(os.path.join(DOCS_PATH, ".."))
@@ -7,6 +8,7 @@ EXCLUDE_FOLDERS = ["docs", "images"]
 GITHUB_URL = "https://github.com/charliebanks/nms-base-builder-presets/blob/master"
 GITHUB_PAGES_URL = "https://charliebanks.github.io/nms-base-builder-presets/"
 GITHUB_RAWR_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master"
+MISSING_THUMB_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"
 
 def get_categories():
     contents = os.listdir(ROOT_PATH)
@@ -14,6 +16,12 @@ def get_categories():
     categories = [folder for folder in folders if folder not in EXCLUDE_FOLDERS]
     return categories
 
+def check_url_exists(url):
+    if urllib.urlopen(url).getcode() == 200:
+        return True
+    else:
+        return False
+   
 def get_presets(category):
     """Get all Presets."""
     full_path = os.path.join(ROOT_PATH, category)
@@ -52,11 +60,14 @@ def generate_category(category):
     content += "___\n\n"
 
     content += """
-    <table style="width:100%">
+<table cellpadding="10">
+<thead>
     <tr>
         <th>Image</th>
         <th>Description</th>
     </tr>
+</thead>
+<tbody>
     """
     # Items.
     for data in preset_info.values():
@@ -65,16 +76,19 @@ def generate_category(category):
         author = data["author"]
         full_path = data["full_path"]
         image_path = data["image_path"]
+        if not check_url_exists(image_path):
+            image_path = MISSING_THUMB_URL
+
         # Create a HTML table as markdown is fairly limiting.
-        content += """
-        <tr>
+        content += (
+            """<tr>
             <td width=\"50%\"><img src=\"{}\"></td>
-            <td width=\"50%\">__Name:__ {} <br /> __Author:__ {} <br /> [__Download__]({})</td>
-        </tr>
-        """.format(image_path, name, author, full_path)
+            <td valign="top" width=\"50%\"><b>Name:</b> {} <br /> <b>Author:</b> {} <br /> <b><a href=\"{}\">Download</a></b></td>
+        </tr>""").format(image_path, name, author, full_path)
 
     content += """
-    </table>
+</tbody>
+</table>
     """
 
 

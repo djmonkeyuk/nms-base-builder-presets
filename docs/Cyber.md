@@ -5,46 +5,36 @@
 ___
 
 
-    <table style="width:100%">
+<table cellpadding="10">
+<thead>
     <tr>
         <th>Image</th>
         <th>Description</th>
     </tr>
-    
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_Pilon.jpg"></td>
-            <td width="50%">__Name:__ Pilon <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Pilon.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_Cafe.jpg"></td>
-            <td width="50%">__Name:__ Cafe <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Cafe.json)</td>
-        </tr>
-        
-        <tr>
+</thead>
+<tbody>
+    <tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Pilon <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Pilon.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Cafe <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Cafe.json">Download</a></b></td>
+        </tr><tr>
             <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_ATM.jpg"></td>
-            <td width="50%">__Name:__ ATM <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_ATM.json)</td>
+            <td valign="top" width="50%"><b>Name:</b> ATM <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_ATM.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Food <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Food.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Store <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Store.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Dome <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Dome.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> LampPost <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_LampPost.json">Download</a></b></td>
         </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_Food.jpg"></td>
-            <td width="50%">__Name:__ Food <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Food.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_Store.jpg"></td>
-            <td width="50%">__Name:__ Store <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Store.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_Dome.jpg"></td>
-            <td width="50%">__Name:__ Dome <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Dome.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_LampPost.jpg"></td>
-            <td width="50%">__Name:__ LampPost <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_LampPost.json)</td>
-        </tr>
-        
-    </table>
+</tbody>
+</table>
     

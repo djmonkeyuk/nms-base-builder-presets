@@ -5,46 +5,36 @@
 ___
 
 
-    <table style="width:100%">
+<table cellpadding="10">
+<thead>
     <tr>
         <th>Image</th>
         <th>Description</th>
     </tr>
-    
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_Walkway.jpg"></td>
-            <td width="50%">__Name:__ Walkway <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_Walkway.json)</td>
+</thead>
+<tbody>
+    <tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Walkway <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_Walkway.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> WalkwayLong <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_WalkwayLong.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Entrance <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_Entrance.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> Building <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_Building.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> WalkwaySplit <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_WalkwaySplit.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> LandingPad <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_LandingPad.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> OuterStair <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_OuterStair.json">Download</a></b></td>
         </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_WalkwayLong.jpg"></td>
-            <td width="50%">__Name:__ WalkwayLong <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_WalkwayLong.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_Entrance.jpg"></td>
-            <td width="50%">__Name:__ Entrance <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_Entrance.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_Building.jpg"></td>
-            <td width="50%">__Name:__ Building <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_Building.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_WalkwaySplit.jpg"></td>
-            <td width="50%">__Name:__ WalkwaySplit <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_WalkwaySplit.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_LandingPad.jpg"></td>
-            <td width="50%">__Name:__ LandingPad <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_LandingPad.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cliff/djmonkey_OuterStair.jpg"></td>
-            <td width="50%">__Name:__ OuterStair <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cliff/djmonkey_OuterStair.json)</td>
-        </tr>
-        
-    </table>
+</tbody>
+</table>
     

@@ -5,16 +5,18 @@
 ___
 
 
-    <table style="width:100%">
+<table cellpadding="10">
+<thead>
     <tr>
         <th>Image</th>
         <th>Description</th>
     </tr>
-    
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Shops/djmonkey_FlyingTaco.jpg"></td>
-            <td width="50%">__Name:__ FlyingTaco <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Shops/djmonkey_FlyingTaco.json)</td>
+</thead>
+<tbody>
+    <tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> FlyingTaco <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Shops/djmonkey_FlyingTaco.json">Download</a></b></td>
         </tr>
-        
-    </table>
+</tbody>
+</table>
     

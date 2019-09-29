@@ -5,31 +5,27 @@
 ___
 
 
-    <table style="width:100%">
+<table cellpadding="10">
+<thead>
     <tr>
         <th>Image</th>
         <th>Description</th>
     </tr>
-    
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoLeftEngine.jpg"></td>
-            <td width="50%">__Name:__ NostromoLeftEngine <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeftEngine.json)</td>
+</thead>
+<tbody>
+    <tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> NostromoLeftEngine <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeftEngine.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> NostromoLeg <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeg.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> NostromoRightEngine <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoRightEngine.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> NostromoCenter <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoCenter.json">Download</a></b></td>
         </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoLeg.jpg"></td>
-            <td width="50%">__Name:__ NostromoLeg <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeg.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoRightEngine.jpg"></td>
-            <td width="50%">__Name:__ NostromoRightEngine <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoRightEngine.json)</td>
-        </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Vehicle/djmonkey_NostromoCenter.jpg"></td>
-            <td width="50%">__Name:__ NostromoCenter <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoCenter.json)</td>
-        </tr>
-        
-    </table>
+</tbody>
+</table>
     

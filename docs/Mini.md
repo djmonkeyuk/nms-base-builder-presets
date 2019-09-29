@@ -5,21 +5,21 @@
 ___
 
 
-    <table style="width:100%">
+<table cellpadding="10">
+<thead>
     <tr>
         <th>Image</th>
         <th>Description</th>
     </tr>
-    
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Mini/djmonkey_ChessSet.jpg"></td>
-            <td width="50%">__Name:__ ChessSet <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSet.json)</td>
+</thead>
+<tbody>
+    <tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> ChessSet <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSet.json">Download</a></b></td>
+        </tr><tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> ChessSetPlayed <br /> <b>Author:</b> djmonkey <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSetPlayed.json">Download</a></b></td>
         </tr>
-        
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Mini/djmonkey_ChessSetPlayed.jpg"></td>
-            <td width="50%">__Name:__ ChessSetPlayed <br /> __Author:__ djmonkey <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/djmonkey_ChessSetPlayed.json)</td>
-        </tr>
-        
-    </table>
+</tbody>
+</table>
     

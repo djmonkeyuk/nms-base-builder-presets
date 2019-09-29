@@ -5,16 +5,18 @@
 ___
 
 
-    <table style="width:100%">
+<table cellpadding="10">
+<thead>
     <tr>
         <th>Image</th>
         <th>Description</th>
     </tr>
-    
-        <tr>
-            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/LukeClough_WoodHouse"></td>
-            <td width="50%">__Name:__ WoodHouse <br /> __Author:__ LukeClough <br /> [__Download__](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/LukeClough_WoodHouse)</td>
+</thead>
+<tbody>
+    <tr>
+            <td width="50%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="50%"><b>Name:</b> WoodHouse <br /> <b>Author:</b> LukeClough <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/LukeClough_WoodHouse">Download</a></b></td>
         </tr>
-        
-    </table>
+</tbody>
+</table>
     
