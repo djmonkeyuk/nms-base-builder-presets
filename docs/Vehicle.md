@@ -1,18 +1,20 @@
+# No Man's Sky Base Builder Presets  
+
 ## Category:: Vehicle
 
-Name: NostromoLeftEngine.json  
+Name: NostromoLeftEngine  
 Author: djmonkey  
 [Download](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeftEngine.json)  
 
-Name: NostromoLeg.json  
+Name: NostromoLeg  
 Author: djmonkey  
 [Download](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoLeg.json)  
 
-Name: NostromoRightEngine.json  
+Name: NostromoRightEngine  
 Author: djmonkey  
 [Download](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoRightEngine.json)  
 
-Name: NostromoCenter.json  
+Name: NostromoCenter  
 Author: djmonkey  
 [Download](https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Vehicle/djmonkey_NostromoCenter.json)  
 

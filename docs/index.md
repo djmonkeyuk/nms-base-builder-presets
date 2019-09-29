@@ -2,6 +2,8 @@
 
 ## Categories  
 
+[Basic](https://charliebanks.github.io/nms-base-builder-presets/Basic)  
+
 [Cliff](https://charliebanks.github.io/nms-base-builder-presets/Cliff)  
 
 [Cyber](https://charliebanks.github.io/nms-base-builder-presets/Cyber)  

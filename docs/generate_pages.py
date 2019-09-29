@@ -23,7 +23,7 @@ def get_presets(category):
         basename = os.path.basename(item)
         info[item] = {
             "author": basename.split("_")[0],
-            "name": basename.split("_")[-1],
+            "name": basename.split("_")[-1].split(".")[0],
             "full_path": "/".join([GITHUB_RAWR_URL, category, item])
         }
     return info
@@ -39,14 +39,14 @@ def generate_homepage():
         content += "[{}]({})".format(category, os.path.join(GITHUB_PAGES_URL, category_url))
         content += "  \n\n"
 
-    md_file = os.path.join(DOCS_PATH, "index.html")
+    md_file = os.path.join(DOCS_PATH, "index.md")
     with open(md_file, "w") as stream:
         stream.write(content) 
 
 def generate_category(category):
     preset_info = get_presets(category)
     content = "# No Man's Sky Base Builder Presets  \n\n"
-    content = "## Category:: {}\n\n".format(category)
+    content += "## Category:: {}\n\n".format(category)
     for preset, data in preset_info.items():
         name = data["name"]
         author = data["author"]
