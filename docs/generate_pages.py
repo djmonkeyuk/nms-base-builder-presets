@@ -2,6 +2,7 @@
 import os
 import time
 import urllib
+import re
 
 DOCS_PATH = os.path.dirname(os.path.realpath(__file__))
 ROOT_PATH = os.path.realpath(os.path.join(DOCS_PATH, ".."))
@@ -42,6 +43,13 @@ def get_categories():
     folders = [folder for folder in contents if "." not in folder]
     categories = [folder for folder in folders if folder not in EXCLUDE_FOLDERS]
     return categories
+
+def get_nice_name(label):
+    """Uber regex conversion to get nice space seperation.
+
+    Taken from : https://stackoverflow.com/questions/5020906/python-convert-camel-case-to-space-delimited-using-regex-and-taking-acronyms-in
+    """
+    return re.sub(r'((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))', r' \1', label)
 
 def sorted_ls(path):
     mtime = lambda f: os.stat(os.path.join(path, f)).st_mtime
@@ -134,7 +142,7 @@ def generate_category(category):
     # Items.
     for data in preset_info.values():
         # Get data.
-        name = data["name"]
+        name = get_nice_name(data["name"])
         author = data["author"]
         date = data["date"]
         full_path = data["full_path"]

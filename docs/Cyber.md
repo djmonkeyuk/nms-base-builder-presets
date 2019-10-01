@@ -30,7 +30,7 @@ ___
             <td valign="top" width="60%"><b>Name:</b> Dome <br /> <b>Author:</b> djmonkey <br /><b>Date:</b> 28/09/2019 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_Dome.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Cyber/djmonkey_LampPost.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> LampPost <br /> <b>Author:</b> djmonkey <br /><b>Date:</b> 28/09/2019 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_LampPost.json">Download (Right-Click -> Save link as...)</a></b></td>
+            <td valign="top" width="60%"><b>Name:</b> Lamp Post <br /> <b>Author:</b> djmonkey <br /><b>Date:</b> 28/09/2019 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Cyber/djmonkey_LampPost.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr>
 </tbody>
 </table>
