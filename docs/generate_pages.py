@@ -1,5 +1,6 @@
 """Script for generating .md files from preset directories."""
 import os
+import time
 import urllib
 
 DOCS_PATH = os.path.dirname(os.path.realpath(__file__))
@@ -42,18 +43,28 @@ def get_categories():
     categories = [folder for folder in folders if folder not in EXCLUDE_FOLDERS]
     return categories
 
-  
+def sorted_ls(path):
+    mtime = lambda f: os.stat(os.path.join(path, f)).st_mtime
+    return reversed(list(sorted(os.listdir(path), key=mtime)))
+
+def get_time(file_path):
+    time_output = time.strftime('%d/%m/%Y', time.gmtime(os.path.getmtime(file_path)))
+    return time_output
+
 def get_presets(category):
     """Get all Presets."""
     full_path = os.path.join(ROOT_PATH, category)
-    items = os.listdir(full_path)
+    items = sorted_ls(full_path)
     info = {}
     for item in items:
         basename = os.path.basename(item)
+        full_local_path = "/".join([ROOT_PATH, category, item])
+        full_online_path = "/".join([GITHUB_RAW_URL, category, item])
         info[item] = {
             "author": basename.split("_")[0],
             "name": basename.split("_")[-1].split(".")[0],
-            "full_path": "/".join([GITHUB_RAW_URL, category, item]),
+            "date": get_time(full_local_path),
+            "full_path": full_online_path,
             "image_path": "/".join([GITHUB_RAW_URL, "images", category, item.replace(".json", ".jpg")]),
             "local_image_path": os.path.join(ROOT_PATH, "images", category, item.replace(".json", ".jpg"))
         }
@@ -66,7 +77,8 @@ def get_first_image(category):
     if not os.path.exists(category_path):
         return default
 
-    images = [each for each in os.listdir(category_path) if each.endswith(".jpg")]
+    images = sorted_ls(category_path)
+    images = [each for each in images if each.endswith(".jpg")]
     if images:
         git_hub_url = os.path.join(GITHUB_RAW_URL, "images", category, images[0])
         return git_hub_url
@@ -124,6 +136,7 @@ def generate_category(category):
         # Get data.
         name = data["name"]
         author = data["author"]
+        date = data["date"]
         full_path = data["full_path"]
         image_path = data["image_path"]
         local_image_path = data["local_image_path"]
@@ -134,8 +147,8 @@ def generate_category(category):
         content += (
             """<tr>
             <td width=\"40%\"><img src=\"{}\"></td>
-            <td valign="top" width=\"60%\"><b>Name:</b> {} <br /> <b>Author:</b> {} <br /> <b><a href=\"{}\">Download (Right-Click -> Save link as...)</a></b></td>
-        </tr>""").format(image_path, name, author, full_path)
+            <td valign="top" width=\"60%\"><b>Name:</b> {} <br /> <b>Author:</b> {} <br /><b>Date:</b> {} <br /> <b><a href=\"{}\">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr>""").format(image_path, name, author, date, full_path)
 
     content += """
 </tbody>
