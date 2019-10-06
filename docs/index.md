@@ -33,7 +33,7 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cliff\djmonkey_Walkway.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff">Cliff</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cyber\djmonkey_LampPost.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cyber\djmonkey_StreetLight.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber">Cyber</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Mini"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Mini\djmonkey_ChessSetPlayed.jpg"></a></td>
