@@ -3,6 +3,7 @@ import os
 import time
 import urllib
 import re
+from collections import OrderedDict
 
 DOCS_PATH = os.path.dirname(os.path.realpath(__file__))
 ROOT_PATH = os.path.realpath(os.path.join(DOCS_PATH, ".."))
@@ -63,7 +64,7 @@ def get_presets(category):
     """Get all Presets."""
     full_path = os.path.join(ROOT_PATH, category)
     items = sorted_ls(full_path)
-    info = {}
+    info = OrderedDict()
     for item in items:
         basename = os.path.basename(item)
         full_local_path = "/".join([ROOT_PATH, category, item])
