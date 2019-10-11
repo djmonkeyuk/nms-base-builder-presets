@@ -54,7 +54,7 @@ def get_nice_name(label):
 
 def sorted_ls(path):
     mtime = lambda f: os.stat(os.path.join(path, f)).st_mtime
-    return reversed(list(sorted(os.listdir(path), key=mtime)))
+    return reversed(list(sorted([x for x in os.listdir(path) if x.endswith(".json")], key=mtime)))
 
 def get_time(file_path):
     time_output = time.strftime('%d/%m/%Y', time.gmtime(os.path.getmtime(file_path)))
