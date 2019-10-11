@@ -52,9 +52,9 @@ def get_nice_name(label):
     """
     return re.sub(r'((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))', r' \1', label)
 
-def sorted_ls(path):
+def sorted_ls(path, ext="json"):
     mtime = lambda f: os.stat(os.path.join(path, f)).st_mtime
-    return reversed(list(sorted([x for x in os.listdir(path) if x.endswith(".json")], key=mtime)))
+    return reversed(list(sorted([x for x in os.listdir(path) if x.endswith(".{}".format(ext))], key=mtime)))
 
 def get_time(file_path):
     time_output = time.strftime('%d/%m/%Y', time.gmtime(os.path.getmtime(file_path)))
@@ -86,7 +86,7 @@ def get_first_image(category):
     if not os.path.exists(category_path):
         return default
 
-    images = sorted_ls(category_path)
+    images = sorted_ls(category_path, ext="jpg")
     images = [each for each in images if each.endswith(".jpg")]
     if images:
         git_hub_url = os.path.join(GITHUB_RAW_URL, "images", category, images[0])
