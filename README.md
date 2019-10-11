@@ -30,9 +30,11 @@ ___
 
 <a name="category"></a>
 
-### 2. Adding a Category.
+### 2. Adding a Category 
 
-Skip these steps if a category already exists for your Preset.
+> Follow these steps for creating categories for image thumbnails too.
+
+> Skip these steps if a category already exists for your Preset.
 
 1. At the top of this page, press the button that says "Create new file."
 2. In the field that says "Name your file...". Type in the name of the category.
