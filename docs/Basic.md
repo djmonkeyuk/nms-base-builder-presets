@@ -14,6 +14,9 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Kattiko_WindTurbine.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Wind Turbine <br /> <b>Author:</b> Kattiko <br /><b>Date:</b> 05/12/2019 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Kattiko_WindTurbine.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Rai_BasicSphere11.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Basic Sphere11 <br /> <b>Author:</b> Rai <br /><b>Date:</b> 11/10/2019 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Rai_BasicSphere11.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>

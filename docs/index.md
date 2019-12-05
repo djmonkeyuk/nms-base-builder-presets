@@ -27,11 +27,14 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
 
 <table cellpadding="10">
         <tbody><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Rai_BasicSphere11.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Kattiko_WindTurbine.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic">Basic</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cliff\djmonkey_WalkwaySplit.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff">Cliff</a></h2></td>
+        </tr><tr>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
+            <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases">Compact Bases</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cyber\djmonkey_StreetLight.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber">Cyber</a></h2></td>
@@ -44,6 +47,9 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Pop%20Culture"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Pop Culture\djmonkey_IronGiantUpperArm.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Pop%20Culture">Pop Culture</a></h2></td>
+        </tr><tr>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Robots"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
+            <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Robots">Robots</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Shops"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Shops\djmonkey_FlyingTaco.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Shops">Shops</a></h2></td>
