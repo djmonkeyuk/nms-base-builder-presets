@@ -33,7 +33,7 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cliff\djmonkey_WalkwaySplit.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff">Cliff</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Compact Bases\Kattiko_Bizarrotech Skystead.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Compact Bases\Kattiko_Bizarrotech seastead.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases">Compact Bases</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cyber\djmonkey_StreetLight.jpg"></a></td>
