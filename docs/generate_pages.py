@@ -1,8 +1,9 @@
 """Script for generating .md files from preset directories."""
+import json
 import os
+import re
 import time
 import urllib
-import re
 from collections import OrderedDict
 
 DOCS_PATH = os.path.dirname(os.path.realpath(__file__))
@@ -52,13 +53,21 @@ def get_nice_name(label):
     """
     return re.sub(r'((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))', r' \1', label)
 
+def get_timestamp(path):
+    with open(path, "r") as stream:
+        data = json.load(stream)
+        return data.get("timestamp", 0)
+
 def sorted_ls(path, ext="json"):
-    mtime = lambda f: os.stat(os.path.join(path, f)).st_mtime
-    return reversed(list(sorted([x for x in os.listdir(path) if x.endswith(".{}".format(ext))], key=mtime)))
+    all_files = [x for x in os.listdir(path) if x.endswith(".{}".format(ext))]
+    all_files_full = [os.path.join(path, x) for x in all_files]
+    sorted_items = reversed(list(sorted(all_files_full, key=get_timestamp)))
+    return [os.path.basename(x) for x in sorted_items]
 
 def get_time(file_path):
-    time_output = time.strftime('%d/%m/%Y', time.gmtime(os.path.getmtime(file_path)))
-    return time_output
+    with open(file_path, "r") as stream:
+        data = json.load(stream)
+        return time.strftime('%Y-%m-%d', time.localtime(data.get("timestamp", 0)))
 
 def get_presets(category):
     """Get all Presets."""
@@ -82,15 +91,18 @@ def get_presets(category):
 def get_first_image(category):
     category_path = os.path.join(ROOT_PATH, "images", category)
     default = os.path.join(GITHUB_RAW_URL, "images", "missing_thumbnail.jpg")
-    
+
     if not os.path.exists(category_path):
         return default
 
-    images = sorted_ls(category_path, ext="jpg")
-    images = [each for each in images if each.endswith(".jpg")]
-    if images:
-        git_hub_url = os.path.join(GITHUB_RAW_URL, "images", category, images[0])
-        return git_hub_url
+    # Get First Item.
+    full_path = os.path.join(ROOT_PATH, category)
+    items = sorted_ls(full_path)
+    for item in items:
+        local_url = os.path.join(ROOT_PATH, "images", category, item.replace(".json", ".jpg"))
+        git_hub_url = os.path.join(GITHUB_RAW_URL, "images", category, item.replace(".json", ".jpg"))
+        if os.path.exists(local_url):
+            return git_hub_url
     
     return default
 

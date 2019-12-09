@@ -27,19 +27,19 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
 
 <table cellpadding="10">
         <tbody><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Rai_BasicSphere11.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Kattiko_WindTurbine.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic">Basic</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cliff\djmonkey_Walkway.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cliff\djmonkey_Building.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff">Cliff</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Compact Bases\Kattiko_Bizarrotech seastead.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Compact Bases\Kattiko_Bizarrotech Frogbase.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Compact%20Bases">Compact Bases</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cyber\djmonkey_StreetLight.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cyber\djmonkey_ATM.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cyber">Cyber</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/emblems"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\emblems\Kattiko_Logo Galactic Hub.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/emblems"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\emblems\Kattiko_Logo AGT.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/emblems">emblems</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Logic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Logic\Rai_MDoorProximity.jpg"></a></td>

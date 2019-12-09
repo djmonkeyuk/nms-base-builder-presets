@@ -15,7 +15,7 @@ ___
 <tbody>
     <tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Logic/Rai_MDoorProximity.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> M Door Proximity <br /> <b>Author:</b> Rai <br /><b>Date:</b> 09/12/2019 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Logic/Rai_MDoorProximity.json">Download (Right-Click -> Save link as...)</a></b></td>
+            <td valign="top" width="60%"><b>Name:</b> M Door Proximity <br /> <b>Author:</b> Rai <br /><b>Date:</b> 2019-10-09 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Logic/Rai_MDoorProximity.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr>
 </tbody>
 </table>
