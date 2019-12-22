@@ -12,6 +12,7 @@ EXCLUDE_FOLDERS = ["docs", "images", "sounds"]
 GITHUB_URL = "https://github.com/charliebanks/nms-base-builder-presets/blob/master"
 GITHUB_PAGES_URL = "https://charliebanks.github.io/nms-base-builder-presets/"
 GITHUB_RAW_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master"
+GITHUB_BLOB_URL = "https://github.com/charliebanks/nms-base-builder-presets/blob/master/"
 MISSING_THUMB_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"
 
 
@@ -84,7 +85,7 @@ def get_presets(category):
             "date": get_time(full_local_path),
             "full_path": full_online_path,
             "image_path": "/".join([GITHUB_RAW_URL, "images", category, item.replace(".json", ".jpg")]),
-            "audio_path": "/".join([GITHUB_RAW_URL, "sounds", category, item.replace(".json", ".mp3")]),
+            "audio_path": "/".join([GITHUB_BLOB_URL, "sounds", category, item.replace(".json", ".mp3") + "?raw=true"]),
             "local_image_path": os.path.join(ROOT_PATH, "images", category, item.replace(".json", ".jpg"))
         }
     return info
