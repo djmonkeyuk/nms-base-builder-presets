@@ -8,7 +8,7 @@ from collections import OrderedDict
 
 DOCS_PATH = os.path.dirname(os.path.realpath(__file__))
 ROOT_PATH = os.path.realpath(os.path.join(DOCS_PATH, ".."))
-EXCLUDE_FOLDERS = ["docs", "images"]
+EXCLUDE_FOLDERS = ["docs", "images", "sounds"]
 GITHUB_URL = "https://github.com/charliebanks/nms-base-builder-presets/blob/master"
 GITHUB_PAGES_URL = "https://charliebanks.github.io/nms-base-builder-presets/"
 GITHUB_RAW_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master"
@@ -84,6 +84,7 @@ def get_presets(category):
             "date": get_time(full_local_path),
             "full_path": full_online_path,
             "image_path": "/".join([GITHUB_RAW_URL, "images", category, item.replace(".json", ".jpg")]),
+            "audio_path": "/".join([GITHUB_RAW_URL, "sounds", category, item.replace(".json", ".mp3")]),
             "local_image_path": os.path.join(ROOT_PATH, "images", category, item.replace(".json", ".jpg"))
         }
     return info
@@ -160,13 +161,24 @@ def generate_category(category):
         date = data["date"]
         full_path = data["full_path"]
         image_path = data["image_path"]
+        audio_path = data["audio_path"]
         local_image_path = data["local_image_path"]
         if not os.path.isfile(local_image_path):
             image_path = MISSING_THUMB_URL
 
         # Create a HTML table as markdown is fairly limiting.
-        content += (
-            """<tr>
+        if category == "Byte Beats":
+            content += ("""<tr>
+                <td width=\"40%\"><audio controls>
+                    <source src="{}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio></td>
+                <td valign="top" width=\"60%\"><b>Name:</b> {} <br /> <b>Author:</b> {} <br /><b>Date:</b> {} <br /> <b><a href=\"{}\">Download (Right-Click -> Save link as...)</a></b></td>
+            </tr>
+            """).format(audio_path, name, author, date, full_path)
+        else:
+            content += (
+                """<tr>
             <td width=\"40%\"><img src=\"{}\"></td>
             <td valign="top" width=\"60%\"><b>Name:</b> {} <br /> <b>Author:</b> {} <br /><b>Date:</b> {} <br /> <b><a href=\"{}\">Download (Right-Click -> Save link as...)</a></b></td>
         </tr>""").format(image_path, name, author, date, full_path)

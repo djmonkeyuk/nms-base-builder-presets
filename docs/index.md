@@ -30,6 +30,9 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Kattiko_WindTurbine.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic">Basic</a></h2></td>
         </tr><tr>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Byte%20Beats"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
+            <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Byte%20Beats">Byte Beats</a></h2></td>
+        </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Cliff\djmonkey_Building.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Cliff">Cliff</a></h2></td>
         </tr><tr>
