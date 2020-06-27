@@ -51,7 +51,7 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Logic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Logic\Rai_MDoorProximity.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Logic">Logic</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/MegaStructures"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/MegaStructures"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\MegaStructures\4uckleberry_skydomebase.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/MegaStructures">MegaStructures</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Mini"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Mini\djmonkey_ChessSetPlayed.jpg"></a></td>

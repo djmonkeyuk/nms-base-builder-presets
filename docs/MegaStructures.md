@@ -14,7 +14,7 @@ ___
 </thead>
 <tbody>
     <tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/MegaStructures/4uckleberry_skydomebase.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> skydomebase <br /> <b>Author:</b> 4uckleberry <br /><b>Date:</b> 2020-06-27 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/MegaStructures/4uckleberry_skydomebase.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
