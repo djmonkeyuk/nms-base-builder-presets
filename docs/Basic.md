@@ -14,6 +14,9 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Dodecahedron-M_FLOOR.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> FLOOR <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Dodecahedron-M_FLOOR.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Kattiko_WindTurbine.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Wind Turbine <br /> <b>Author:</b> Kattiko <br /><b>Date:</b> 2019-12-09 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Kattiko_WindTurbine.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>

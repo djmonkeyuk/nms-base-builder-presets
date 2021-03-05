@@ -14,6 +14,9 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/MegaStructures/Voldrang-The-Golden-Throne.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Voldrang- The- Golden- Throne <br /> <b>Author:</b> Voldrang-The-Golden-Throne.json <br /><b>Date:</b> 2021-03-03 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/MegaStructures/Voldrang-The-Golden-Throne.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/MegaStructures/Voldrang_Le-Coq-Gigantesque.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Le- Coq- Gigantesque <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/MegaStructures/Voldrang_Le-Coq-Gigantesque.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
