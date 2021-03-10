@@ -70,6 +70,11 @@ def get_time(file_path):
         data = json.load(stream)
         return time.strftime('%Y-%m-%d', time.localtime(data.get("timestamp", 0)))
 
+def extract_author_and_name(basename):
+    author, name = basename.split("_", 1)
+    name = name.split(".")[0]
+    return author, name
+
 def get_presets(category):
     """Get all Presets."""
     full_path = os.path.join(ROOT_PATH, category)
@@ -79,9 +84,10 @@ def get_presets(category):
         basename = os.path.basename(item)
         full_local_path = "/".join([ROOT_PATH, category, item])
         full_online_path = "/".join([GITHUB_RAW_URL, category, item])
+        author, name = extract_author_and_name(basename)
         info[item] = {
-            "author": basename.split("_")[0],
-            "name": basename.split("_")[-1].split(".")[0],
+            "author": author,
+            "name": name,
             "date": get_time(full_local_path),
             "full_path": full_online_path,
             "image_path": "/".join([GITHUB_RAW_URL, "images", category, item.replace(".json", ".jpg")]),
