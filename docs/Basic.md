@@ -14,8 +14,26 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Truncated-Icosahedron.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Truncated- Icosahedron <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-11 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Truncated-Icosahedron.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Icosahedron.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Icosahedron <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-11 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Icosahedron.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_D20.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> D20 <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_D20.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Dodecahedron-M_FLOOR.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Dodecahedron-M_FLOOR <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Dodecahedron-M_FLOOR.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Egg-M_WALL_WINDOW.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Egg-M_WALL_WINDOW <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Egg-M_WALL_WINDOW.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Egg-M_GFLOOR.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Egg-M_GFLOOR <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Egg-M_GFLOOR.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Egg-M_FLOOR <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Egg-M_FLOOR.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Kattiko_WindTurbine.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Wind Turbine <br /> <b>Author:</b> Kattiko <br /><b>Date:</b> 2019-12-09 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Kattiko_WindTurbine.json">Download (Right-Click -> Save link as...)</a></b></td>
