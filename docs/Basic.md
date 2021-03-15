@@ -32,7 +32,7 @@ ___
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Egg-M_GFLOOR.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Egg-M_GFLOOR <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Egg-M_GFLOOR.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Egg-M_FLOOR.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Egg-M_FLOOR <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-02 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Egg-M_FLOOR.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Kattiko_WindTurbine.jpg"></td>
