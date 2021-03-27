@@ -27,7 +27,7 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
 
 <table cellpadding="10">
         <tbody><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Voldrang_Truncated-Icosahedron.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Voldrang_TetrahedronWood.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic">Basic</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Byte%20Beats"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
@@ -54,7 +54,7 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/MegaStructures"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\MegaStructures\Voldrang_The-Golden-Throne.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/MegaStructures">MegaStructures</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Mini"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Mini\djmonkey_ChessSetPlayed.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Mini"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Mini\Voldrang_CorkedDecantersOnShelf.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Mini">Mini</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Pop%20Culture"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Pop Culture\djmonkey_IronGiant.jpg"></a></td>

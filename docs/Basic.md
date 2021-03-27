@@ -14,6 +14,27 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_TetrahedronWood.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Tetrahedron Wood <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-27 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_TetrahedronWood.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_TetrahedronMetal.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Tetrahedron Metal <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-27 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_TetrahedronMetal.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_TetrahedronConcrete.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Tetrahedron Concrete <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-27 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_TetrahedronConcrete.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_BasicMetalAndGlassWallSphere.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Basic Metal And Glass Wall Sphere <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-27 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_BasicMetalAndGlassWallSphere.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_BasicMetalAndGlassFloorSphere.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Basic Metal And Glass Floor Sphere <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-26 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_BasicMetalAndGlassFloorSphere.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_EggConcrete.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Egg Concrete <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-25 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_EggConcrete.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_GlassPanelSphere.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Glass Panel Sphere <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-25 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_GlassPanelSphere.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Basic/Voldrang_Truncated-Icosahedron.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Truncated- Icosahedron <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-11 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Basic/Voldrang_Truncated-Icosahedron.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
