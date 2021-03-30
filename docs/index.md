@@ -69,7 +69,7 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Shops"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Shops\djmonkey_FlyingTaco.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Shops">Shops</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Vehicle"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Vehicle\djmonkey_NostromoWhole.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Vehicle"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Vehicle\Voldrang_ZarkovsRocketShip.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Vehicle">Vehicle</a></h2></td>
         </tr>
 </tbody>
