@@ -27,7 +27,7 @@ Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-prese
 
 <table cellpadding="10">
         <tbody><tr>
-            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Voldrang_TetrahedronWood.jpg"></a></td>
+            <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\Basic\Voldrang_BasicMetalAndGlassFloorSphere.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://charliebanks.github.io/nms-base-builder-presets/Basic">Basic</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://charliebanks.github.io/nms-base-builder-presets/Byte%20Beats"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
