@@ -498,7 +498,7 @@
                 -0.0402674563229084
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -518,7 +518,7 @@
                 -0.0361027866601944
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -538,7 +538,7 @@
                 -0.029477784410119057
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -558,7 +558,7 @@
                 -0.0402674563229084
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -578,7 +578,7 @@
                 -0.0361027866601944
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -598,7 +598,7 @@
                 -0.029477784410119057
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -618,7 +618,7 @@
                 -0.020843923091888428
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -638,7 +638,7 @@
                 -0.010789589025080204
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -658,7 +658,7 @@
                 6.15003514781165e-08
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -678,7 +678,7 @@
                 -0.020843923091888428
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -698,7 +698,7 @@
                 -0.010789589025080204
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -718,7 +718,7 @@
                 6.15003514781165e-08
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -738,7 +738,7 @@
                 0.010789653286337852
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -758,7 +758,7 @@
                 0.020843999460339546
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -778,7 +778,7 @@
                 0.02947789430618286
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -798,7 +798,7 @@
                 0.010789653286337852
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -818,7 +818,7 @@
                 0.020843999460339546
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -838,7 +838,7 @@
                 0.02947789430618286
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -858,7 +858,7 @@
                 0.036102861166000366
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -878,7 +878,7 @@
                 0.04026750475168228
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -898,7 +898,7 @@
                 0.0416879877448082
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -918,7 +918,7 @@
                 0.036102861166000366
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -938,7 +938,7 @@
                 0.04026750475168228
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WALLCURVED",
@@ -958,7 +958,7 @@
                 0.0416879877448082
             ],
             "Timestamp": 1613031636,
-            "UserData": 14
+            "UserData": 1
         },
         {
             "ObjectID": "^WEDGESHAPE",
@@ -1821,6 +1821,6 @@
             "UserData": 1
         }
     ],
-    "timestamp": 1647392929,
+    "timestamp": 1648706632,
     "BaseVersion": 5
 }
