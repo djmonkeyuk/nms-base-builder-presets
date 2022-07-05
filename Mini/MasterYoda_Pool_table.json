@@ -1,49 +1,5 @@
 {
-    "BaseVersion": 5,
-    "OriginalBaseVersion": 3,
-    "GalacticAddress": "",
-    "Position": [
-        0.0,
-        0.0,
-        0.0
-    ],
-    "Forward": [
-        0.0,
-        0.0,
-        0.0
-    ],
-    "UserData": 0,
-    "LastUpdateTimestamp": "",
-    "RID": "",
-    "Owner": {
-        "UID": "",
-        "LID": "",
-        "USN": "",
-        "PTK": "",
-        "TS": ""
-    },
-    "Name": "",
-    "BaseType": {
-        "PersistentBaseTypes": "HomePlanetBase"
-    },
-    "LastEditedById": "",
-    "LastEditedByUsername": "",
-    "ScreenshotAt": [
-        1.0,
-        0.0,
-        0.0
-    ],
-    "ScreenshotPos": [
-        1.0,
-        1.0,
-        0.0
-    ],
-    "GameMode": {
-        "PresetGameMode": "Unspecified"
-    },
-    "PlatformToken": "",
-    "IsReported": false,
-    "IsFeatured": false,
+    "timestamp": 1616799804,
     "Objects": [
         {
             "ObjectID": "^BUILDFLATPANEL",
