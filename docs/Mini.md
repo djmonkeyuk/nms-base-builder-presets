@@ -26,7 +26,7 @@ ___
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Mini/Voldrang_AerosolSprayCan.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Aerosol Spray Can <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-26 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/Voldrang_AerosolSprayCan.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Mini/MasterYoda_Pool_table.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Pool_table <br /> <b>Author:</b> MasterYoda <br /><b>Date:</b> 2021-03-26 <br /> <b><a href="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/Mini/MasterYoda_Pool_table.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/Mini/Voldrang_CoffeeMugStack.jpg"></td>
