@@ -9,23 +9,32 @@ from collections import OrderedDict
 DOCS_PATH = os.path.dirname(os.path.realpath(__file__))
 ROOT_PATH = os.path.realpath(os.path.join(DOCS_PATH, ".."))
 EXCLUDE_FOLDERS = ["docs", "images", "sounds"]
-GITHUB_URL = "https://github.com/charliebanks/nms-base-builder-presets/blob/master"
-GITHUB_PAGES_URL = "https://charliebanks.github.io/nms-base-builder-presets/"
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master"
-GITHUB_BLOB_URL = "https://github.com/charliebanks/nms-base-builder-presets/blob/master/"
-MISSING_THUMB_URL = "https://raw.githubusercontent.com/charliebanks/nms-base-builder-presets/master/images/missing_thumbnail.jpg"
+GITHUB_URL = "https://github.com/djmonkeyuk/nms-base-builder-presets/blob/master"
+GITHUB_PAGES_URL = "https://djmonkeyuk.github.io/nms-base-builder-presets/"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master"
+GITHUB_BLOB_URL = "https://github.com/djmonkeyuk/nms-base-builder-presets/blob/master/"
+MISSING_THUMB_URL = "https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/missing_thumbnail.jpg"
 
 
 WELCOME_MESSAGE = """
+
+## Join the Discord Community!
+
+Before exploring the preset directory, please know that there is now a dedicated Discord community for both the No Man's Sky Base Building Add-on for Blender And the Standalone Building App. There are preset and prefab sharing channels which is a much more interactive and responsive way of sharing your builds! :)
+
+[Discord Invite Link](https://discord.gg/Mmz3rpq4Px)
+
+The Discord channel also contains information about a new indie game I've been developing titled - _Tales from The Dancing Moon_. If you've enjoyed my No Man's Sky tools, then please try it out! :)
+
 ## Welcome
 
-Explore this website to find base building Presets created by the community 
+Explore this website to find base building Presets created by the community
 to be used with the _[No Man's Sky Base Builder](https://www.nexusmods.com/nomanssky/mods/984)_ for _Blender_.
 
-Within these categories are a series of `JSON` files which correspond to a 
+Within these categories are a series of `JSON` files which correspond to a
 particular preset.
 
-These can be downloaded and placed into your No Man's Sky Base Builder user 
+These can be downloaded and placed into your No Man's Sky Base Builder user
 folder located here.
 
 ```
@@ -38,7 +47,7 @@ They will then appear in the Preset list within the tool.
 CONTRIBUTION_MESSAGE = """
 ## Contribute
 
-Please visit the [GitHub](https://github.com/charliebanks/nms-base-builder-presets) page for details on how to contribute.
+Please visit the [GitHub](https://github.com/djmonkeyuk/nms-base-builder-presets) page for details on how to contribute.
 """
 
 def get_categories():
@@ -111,7 +120,7 @@ def get_first_image(category):
         git_hub_url = os.path.join(GITHUB_RAW_URL, "images", category, item.replace(".json", ".jpg"))
         if os.path.exists(local_url):
             return git_hub_url
-    
+
     return default
 
 def generate_homepage():
@@ -141,7 +150,7 @@ def generate_homepage():
 """
     md_file = os.path.join(DOCS_PATH, "index.md")
     with open(md_file, "w") as stream:
-        stream.write(content) 
+        stream.write(content)
 
 def generate_category(category):
     preset_info = get_presets(category)
@@ -198,7 +207,7 @@ def generate_category(category):
 
     md_file = os.path.join(DOCS_PATH, category + ".md")
     with open(md_file, "w") as stream:
-        stream.write(content) 
+        stream.write(content)
 
 def generate():
     """Main generate."""
