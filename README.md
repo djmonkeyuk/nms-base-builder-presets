@@ -5,7 +5,7 @@ A central place for the Blender community to store presets for the <a href="http
 </p>
 
 <p align="center">
-If you're looking for Presets to download, please visit the <a href="https://charliebanks.github.io/nms-base-builder-presets/">user-friendly website</a>.
+If you're looking for Presets to download, please visit the <a href="https://djmonkeyuk.github.io/nms-base-builder-presets/">user-friendly website</a>.
 </p>
 
 
@@ -30,7 +30,7 @@ ___
 
 <a name="category"></a>
 
-### 2. Adding a Category 
+### 2. Adding a Category
 
 > Follow these steps for creating categories for image thumbnails too.
 
@@ -114,5 +114,5 @@ ___
 
 ### 4. Expert Mode
 
-If you're already familiar and comfortable using Git. Feel free to clone, create branches 
+If you're already familiar and comfortable using Git. Feel free to clone, create branches
 and pull requests as you please, as long as you follow the naming convention.
