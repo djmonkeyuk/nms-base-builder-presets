@@ -4,11 +4,11 @@
 
 ## Join the Discord Community!
 
-Before exploring the preset directory, please know that there is now a dedicated Discord community for both the No Man's Sky Base Building Add-on for Blender And the Standalone Building App. There are preset and prefab sharing channels which is a much more interactive and responsive way of sharing your builds! :)
+Before exploring the preset directory, please know that there is now a dedicated Discord community for both the No Man's Sky Base Building [Add-on for Blender](https://www.nexusmods.com/nomanssky/mods/984) And the [Standalone Building App](https://www.nexusmods.com/nomanssky/mods/2598). There are preset and prefab sharing channels which is a much more interactive and responsive way of sharing your builds! :)
 
 [Discord Invite Link](https://discord.gg/Mmz3rpq4Px)
 
-The Discord channel also contains information about a new indie game I've been developing titled - _Tales from The Dancing Moon_. If you've enjoyed my No Man's Sky tools, then please try it out! :)
+The Discord channel also contains information about a new indie game I've been developing titled - [_Tales from The Dancing Moon_](https://store.steampowered.com/app/1782420/Tales_from_The_Dancing_Moon/). If you've enjoyed my No Man's Sky tools, then please try it out! :)
 
 ## Welcome
 
