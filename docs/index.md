@@ -36,7 +36,7 @@ Please visit the [GitHub](https://github.com/djmonkeyuk/nms-base-builder-presets
 
 <table cellpadding="10">
         <tbody><tr>
-            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Basic\Voldrang_BasicMetalAndGlassFloorSphere.jpg"></a></td>
+            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Basic"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Basic\Voldrang_VolfontLtd.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Basic">Basic</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Byte%20Beats"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
