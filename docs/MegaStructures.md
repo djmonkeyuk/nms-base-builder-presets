@@ -15,7 +15,10 @@ ___
 <tbody>
     <tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/MegaStructures/Voldrang_The-Golden-Throne.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> The- Golden- Throne <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2021-03-03 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/MegaStructures/Voldrang_The-Golden-Throne.json">Download (Right-Click -> Save link as...)</a></b></td>
+            <td valign="top" width="60%"><b>Name:</b> The- Golden- Throne <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-04-27 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/MegaStructures/Voldrang_The-Golden-Throne.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/MegaStructures/Voldrang_Z19_OrbitalStation.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Z19_ Orbital Station <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-04-26 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/MegaStructures/Voldrang_Z19_OrbitalStation.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/MegaStructures/4uckleberry_skydomebase.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> skydomebase <br /> <b>Author:</b> 4uckleberry <br /><b>Date:</b> 2020-06-27 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/MegaStructures/4uckleberry_skydomebase.json">Download (Right-Click -> Save link as...)</a></b></td>
