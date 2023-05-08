@@ -14,6 +14,12 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/Mini/Voldrang_TissueRoll.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Tissue Roll <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-05-05 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Mini/Voldrang_TissueRoll.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/Mini/Voldrang_PlumbersFriend.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Plumbers Friend <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-05-05 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Mini/Voldrang_PlumbersFriend.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/Mini/Voldrang_GlassCoffeeDecanter.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Glass Coffee Decanter <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2022-03-31 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Mini/Voldrang_GlassCoffeeDecanter.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>

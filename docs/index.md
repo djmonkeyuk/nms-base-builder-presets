@@ -57,7 +57,7 @@ Please visit the [GitHub](https://github.com/djmonkeyuk/nms-base-builder-presets
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Festive"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Festive\Kattiko_Xmas tree.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Festive">Festive</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Interior%20Decoration"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\missing_thumbnail.jpg"></a></td>
+            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Interior%20Decoration"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Interior Decoration\Voldrang_Toilet.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Interior%20Decoration">Interior Decoration</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Logic"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Logic\Rai_MDoorProximity.jpg"></a></td>
@@ -69,7 +69,7 @@ Please visit the [GitHub](https://github.com/djmonkeyuk/nms-base-builder-presets
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/MegaStructures"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\MegaStructures\Voldrang_The-Golden-Throne.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/MegaStructures">MegaStructures</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Mini"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Mini\Voldrang_GlassCoffeeDecanter.jpg"></a></td>
+            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Mini"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Mini\Voldrang_TissueRoll.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Mini">Mini</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Pop%20Culture"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Pop Culture\djmonkey_IronGiant.jpg"></a></td>
