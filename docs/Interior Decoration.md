@@ -14,8 +14,8 @@ ___
 </thead>
 <tbody>
     <tr>
-            <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/Interior Decoration/Voldrang_Toilet.jpg"></td>
-            <td valign="top" width="60%"><b>Name:</b> Toilet <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-05-05 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Interior Decoration/Voldrang_Toilet.json">Download (Right-Click -> Save link as...)</a></b></td>
+            <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/missing_thumbnail.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Toilet <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-05-16 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Interior Decoration/Voldrang_Toilet.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/Interior Decoration/Voldrang_LooLightedSeat.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Loo Lighted Seat <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-05-05 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Interior Decoration/Voldrang_LooLightedSeat.json">Download (Right-Click -> Save link as...)</a></b></td>
