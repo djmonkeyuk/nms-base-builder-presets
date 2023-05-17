@@ -57,7 +57,7 @@ Please visit the [GitHub](https://github.com/djmonkeyuk/nms-base-builder-presets
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Festive"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Festive\Kattiko_Xmas tree.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Festive">Festive</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Interior%20Decoration"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Interior Decoration\Voldrang_LooLightedSeat.jpg"></a></td>
+            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Interior%20Decoration"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Interior Decoration\Voldrang_Toilet.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Interior%20Decoration">Interior Decoration</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Logic"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Logic\Rai_MDoorProximity.jpg"></a></td>
