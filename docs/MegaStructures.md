@@ -14,6 +14,9 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/MegaStructures/Voldrang_GlassTorchHaven.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Glass Torch Haven <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-05-18 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/MegaStructures/Voldrang_GlassTorchHaven.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/MegaStructures/Voldrang_The-Golden-Throne.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> The- Golden- Throne <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-04-27 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/MegaStructures/Voldrang_The-Golden-Throne.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>

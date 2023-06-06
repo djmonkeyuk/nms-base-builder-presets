@@ -14,6 +14,9 @@ ___
 </thead>
 <tbody>
     <tr>
+            <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/Vehicle/Voldrang_VintageTruck.jpg"></td>
+            <td valign="top" width="60%"><b>Name:</b> Vintage Truck <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-05-26 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Vehicle/Voldrang_VintageTruck.json">Download (Right-Click -> Save link as...)</a></b></td>
+        </tr><tr>
             <td width="40%"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/images/Vehicle/Voldrang_ZarkovsRocketShip.jpg"></td>
             <td valign="top" width="60%"><b>Name:</b> Zarkovs Rocket Ship <br /> <b>Author:</b> Voldrang <br /><b>Date:</b> 2023-04-27 <br /> <b><a href="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master/Vehicle/Voldrang_ZarkovsRocketShip.json">Download (Right-Click -> Save link as...)</a></b></td>
         </tr><tr>

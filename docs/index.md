@@ -63,10 +63,10 @@ Please visit the [GitHub](https://github.com/djmonkeyuk/nms-base-builder-presets
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Logic"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Logic\Rai_MDoorProximity.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Logic">Logic</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Maritime"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Maritime\Voldrang_Trident.jpg"></a></td>
+            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Maritime"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Maritime\Voldrang_RowboatComposite.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Maritime">Maritime</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/MegaStructures"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\MegaStructures\Voldrang_The-Golden-Throne.jpg"></a></td>
+            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/MegaStructures"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\MegaStructures\Voldrang_GlassTorchHaven.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/MegaStructures">MegaStructures</a></h2></td>
         </tr><tr>
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Mini"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Mini\Voldrang_TissueRoll.jpg"></a></td>
@@ -84,7 +84,7 @@ Please visit the [GitHub](https://github.com/djmonkeyuk/nms-base-builder-presets
             <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Shops"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Shops\djmonkey_FlyingTaco.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Shops">Shops</a></h2></td>
         </tr><tr>
-            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Vehicle"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Vehicle\Voldrang_ZarkovsRocketShip.jpg"></a></td>
+            <td width="40%"><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Vehicle"><img src="https://raw.githubusercontent.com/djmonkeyuk/nms-base-builder-presets/master\images\Vehicle\Voldrang_VintageTruck.jpg"></a></td>
             <td valign="top" width="60%"><h2><a href="https://djmonkeyuk.github.io/nms-base-builder-presets/Vehicle">Vehicle</a></h2></td>
         </tr>
 </tbody>
